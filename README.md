@@ -74,16 +74,6 @@ python queries_sql.py
    - 6 - Belirli boyuttan büyük dosyalar
    - 0 - Çıkış
 
-## 📌 Projenin Amacı
-
-Bu proje;
-
-- Python ile **dosya sistemi işlemlerine hakimiyeti**
-- SQLite ile **veritabanı oluşturma ve yönetimini**
-- SQL **temel ve orta seviye sorgu bilgisini**
-- Menü tabanlı **CLI uygulama geliştirme becerisini**
-
-göstermek amacıyla geliştirilmiştir.
 ## 💡 Tavsiye
 
 SQLite veritabanını görsel olarak incelemek ve SQL sorguları yazmak için  
