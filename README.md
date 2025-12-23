@@ -66,13 +66,13 @@ python queries_sql.py
 ```
 - Program çalıştığında aşağıdaki menü görüntülenir:
 
-    1 - Tüm dosyaları listele
-    2 - Kategoriye göre dosya sayısı
-    3 - En büyük dosyalar
-    4 - Belirli kategoriye ait dosyalar
-    5 - Dosya adına göre arama
-    6 - Belirli boyuttan büyük dosyalar
-    0 - Çıkış
+   - 1 - Tüm dosyaları listele
+   - 2 - Kategoriye göre dosya sayısı
+   - 3 - En büyük dosyalar
+   - 4 - Belirli kategoriye ait dosyalar
+   - 5 - Dosya adına göre arama
+   - 6 - Belirli boyuttan büyük dosyalar
+   - 0 - Çıkış
 
 ## 📌 Projenin Amacı
 
