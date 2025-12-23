@@ -84,3 +84,28 @@ Bu proje;
 - Menü tabanlı **CLI uygulama geliştirme becerisini**
 
 göstermek amacıyla geliştirilmiştir.
+## 💡 Tavsiye
+
+SQLite veritabanını görsel olarak incelemek ve SQL sorguları yazmak için  
+**DBeaver** kullanabilirsiniz.
+
+### DBeaver ile Veritabanı Açma
+
+1. DBeaver uygulamasını açın  
+2. Sol üst köşedeki **New Database Connection** butonuna tıklayın  
+3. Veritabanı türü olarak **SQLite** seçin  
+4. Oluşturulan `.db` dosyasını (ör. `file_analysis.db`) ekleyin  
+5. Bağlantıyı tamamlayarak tablo ve verileri görüntüleyin  
+
+Aşağıdaki görseller DBeaver üzerinden veritabanının nasıl görüntülendiğini göstermektedir:
+
+<img width="577" height="124" alt="SQLite connection selection" src="https://github.com/user-attachments/assets/4369c48c-9860-432c-8362-de8e5bc9fb8c" />
+
+<img width="1625" height="361" alt="DBeaver table view" src="https://github.com/user-attachments/assets/a1102e1d-538d-4a38-bfc2-12231e4d90e5" />
+
+Bu yöntem sayesinde:
+- Veritabanı tablolarını görsel olarak inceleyebilir
+- SQL sorgularını daha rahat yazıp test edebilirsiniz
+
+
+
