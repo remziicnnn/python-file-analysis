@@ -43,25 +43,20 @@ python main.py
 ```
 Program çalıştığında:
 
-Kullanıcıdan taranacak klasör yolu istenir
+- Kullanıcıdan **taranacak klasör yolu** istenir  
+  - Örnek: `C:\Users\remzi\test4`
 
-Örnek: C:\Users\remzi\test4
+- Belirtilen klasör ve **alt klasörler otomatik olarak taranır**
 
-Belirtilen klasör ve alt klasörler otomatik olarak taranır
+- Aşağıdaki bilgiler **SQLite veritabanına kaydedilir**:
+  - Dosya adı  
+  - Uzantı  
+  - Dosya boyutu (KB)  
+  - Kategori  
+  - Klasör yolu  
 
-Aşağıdaki bilgiler SQLite veritabanına kaydedilir:
+- Daha önce eklenmiş dosyalar **tekrar eklenmez**
 
-Dosya adı
-
-Uzantı
-
-Dosya boyutu (KB)
-
-Kategori
-
-Klasör yolu
-
-Daha önce eklenmiş dosyalar tekrar eklenmez
 
 2️⃣ SQL Sorguları ile Veri Analizi
 Veritabanı üzerinde analiz yapmak için:
@@ -78,15 +73,14 @@ Program çalıştığında aşağıdaki menü görüntülenir:
 5 - Dosya adına göre arama
 6 - Belirli boyuttan büyük dosyalar
 0 - Çıkış
-📌 Projenin Amacı
+
+## 📌 Projenin Amacı
+
 Bu proje;
 
-Python ile dosya sistemi işlemlerine hakimiyeti
-
-SQLite ile veritabanı oluşturma ve yönetimini
-
-SQL temel ve orta seviye sorgu bilgisini
-
-Menü tabanlı CLI uygulama geliştirme becerisini
+- Python ile **dosya sistemi işlemlerine hakimiyeti**
+- SQLite ile **veritabanı oluşturma ve yönetimini**
+- SQL **temel ve orta seviye sorgu bilgisini**
+- Menü tabanlı **CLI uygulama geliştirme becerisini**
 
 göstermek amacıyla geliştirilmiştir.
